@@ -2,21 +2,35 @@
 #+author:ray
 #+date:<2015-05-11 Mon>
 
-* TODO 摘要
+* DONE 摘要
+  CLOSED: [2015-05-14 Thu 10:08]
+  - State "DONE"       from "STARTED"    [2015-05-14 Thu 10:08]
 
 * TODO ABSTRACT
 
-* TODO 第一章 绪论
+* DONE 第一章 绪论
+  CLOSED: [2015-05-14 Thu 10:08]
+  - State "DONE"       from "STARTED"    [2015-05-14 Thu 10:08]
 
-** TODO 引言
+** DONE 引言
+   CLOSED: [2015-05-14 Thu 10:07]
+   - State "DONE"       from "STARTED"    [2015-05-14 Thu 10:07]
 
-** TODO 研究背景、意义
+** DONE 研究背景、意义
+   CLOSED: [2015-05-14 Thu 10:07]
+   - State "DONE"       from "STARTED"    [2015-05-14 Thu 10:07]
 
-** TODO 研究现状
+** DONE 研究现状
+   CLOSED: [2015-05-14 Thu 10:07]
+   - State "DONE"       from "STARTED"    [2015-05-14 Thu 10:07]
 
-** TODO 研究内容
+** DONE 研究内容
+   CLOSED: [2015-05-14 Thu 10:07]
+   - State "DONE"       from "STARTED"    [2015-05-14 Thu 10:07]
 
-** TODO 论文章节安排
+** DONE 论文章节安排
+   CLOSED: [2015-05-14 Thu 10:07]
+   - State "DONE"       from "STARTED"    [2015-05-14 Thu 10:07]
 
 * TODO 第二章 室内定位方法基础理论
 
