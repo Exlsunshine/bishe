@@ -32,7 +32,9 @@
    CLOSED: [2015-05-14 Thu 10:07]
    - State "DONE"       from "STARTED"    [2015-05-14 Thu 10:07]
 
-* TODO 第二章 室内定位方法基础理论
+* DONE 第二章 室内定位方法基础理论
+  CLOSED: [2015-05-15 Fri 00:37]
+  - State "DONE"       from "STARTED"    [2015-05-15 Fri 00:37]
 
 ** TODO 室内定位技术的分类
 
