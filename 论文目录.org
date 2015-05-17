@@ -47,19 +47,35 @@
 
 ** TODO 位置指纹定位算法
 
-* TODO 第三章 RSS特性分析
-** TODO 实验环境
-** TODO RSS 信号强度的特性
+* DONE 第三章 RSS特性分析
+  CLOSED: [2015-05-17 Sun 00:09]
+  - State "DONE"       from "STARTED"    [2015-05-17 Sun 00:09]
+** DONE 实验环境
+   CLOSED: [2015-05-17 Sun 00:09]
+   - State "DONE"       from "STARTED"    [2015-05-17 Sun 00:09]
+** DONE RSS 信号强度的特性
+   CLOSED: [2015-05-17 Sun 00:09]
+   - State "DONE"       from "STARTED"    [2015-05-17 Sun 00:09]
 
-* TODO 第四章 基于巴氏的定位方法研究
+* DONE 第四章 基于巴氏的定位方法研究
+  CLOSED: [2015-05-17 Sun 22:58]
+  - State "DONE"       from "STARTED"    [2015-05-17 Sun 22:58]
 
-** TODO 引言
+** DONE 引言
+   CLOSED: [2015-05-17 Sun 22:58]
+   - State "DONE"       from "STARTED"    [2015-05-17 Sun 22:58]
 
-** TODO 巴氏定位理论
+** DONE 巴氏定位理论
+   CLOSED: [2015-05-17 Sun 22:58]
+   - State "DONE"       from "STARTED"    [2015-05-17 Sun 22:58]
 
-** TODO 基于巴氏理论的定位方法
+** DONE 基于巴氏理论的定位方法
+   CLOSED: [2015-05-17 Sun 22:58]
+   - State "DONE"       from "STARTED"    [2015-05-17 Sun 22:58]
 
-* TODO 第五章 概率指纹库的聚类方法研究
+* DONE 第五章 概率指纹库的聚类方法研究
+  CLOSED: [2015-05-17 Sun 22:58]
+  - State "DONE"       from "STARTED"    [2015-05-17 Sun 22:58]
 
 ** TODO 引言
 
