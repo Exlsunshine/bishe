@@ -77,9 +77,13 @@
   CLOSED: [2015-05-17 Sun 22:58]
   - State "DONE"       from "STARTED"    [2015-05-17 Sun 22:58]
 
-** TODO 引言
+** DONE 引言
+   CLOSED: [2015-05-18 Mon 00:29]
+   - State "DONE"       from "STARTED"    [2015-05-18 Mon 00:29]
 
-** TODO 位置指纹的预处理
+** DONE 位置指纹的预处理
+   CLOSED: [2015-05-18 Mon 00:29]
+   - State "DONE"       from "STARTED"    [2015-05-18 Mon 00:29]
 
 * TODO 第六章 实验分析
 
@@ -89,4 +93,4 @@
 
 ** TODO 原型实验性能评估
 
-* 总结
+* TODO 总结
